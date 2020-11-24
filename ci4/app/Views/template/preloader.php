@@ -1,0 +1,3 @@
+
+
+	<?= $this->renderSection('preloader') ?>
